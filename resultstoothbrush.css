@@ -1,0 +1,136 @@
+#d1morgen {
+    position: absolute;
+    top: 186.5px;
+    left: 106px;
+    transform: translate(-50%, -50%) rotate(180deg);
+    width: 27px;
+    height: 30px;
+    background-color: #e4e4e4;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+#d1abend {
+    position: absolute;
+    top: 186.5px;
+    left: 132px;
+    transform: translate(-50%, -50%);
+    width: 27px;
+    height: 30px;
+    background-color: #64b87d;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+#d2morgen {
+    position: absolute;
+    top: 335px;
+    left: 106px;
+    transform: translate(-50%, -50%) rotate(180deg);
+    width: 27px;
+    height: 30px;
+    background-color: #e4e4e4;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+#d2abend {
+    position: absolute;
+    top: 335px;
+    left: 132px;
+    transform: translate(-50%, -50%);
+    width: 27px;
+    height: 30px;
+    background-color: #64b87d;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+ 
+ 
+    #d3morgen {
+    position: absolute;
+    top: 482px;
+    left: 106px;
+    transform: translate(-50%, -50%) rotate(180deg);
+    width: 27px;
+    height: 30px;
+    background-color: #e4e4e4;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+ 
+#d3abend {
+    position: absolute;
+    top: 482px;
+    left: 132px;
+    transform: translate(-50%, -50%);
+    width: 27px;
+    height: 30px;
+    background-color: #64b87d;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+#d4morgen {
+    position: absolute;
+    top: 629px;
+    left: 106px;
+    transform: translate(-50%, -50%) rotate(180deg);
+    width: 27px;
+    height: 30px;
+    background-color: #e4e4e4;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+#d4abend {
+    position: absolute;
+    top: 629px;
+    left: 132px;
+    transform: translate(-50%, -50%);
+    width: 27px;
+    height: 30px;
+    background-color: #64b87d;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+#d5morgen {
+    position: absolute;
+    top: 777px;
+    left: 106px;
+    transform: translate(-50%, -50%) rotate(180deg);
+    width: 27px;
+    height: 30px;
+    background-color: #e4e4e4;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+#d5abend {
+    position: absolute;
+    top: 777px;
+    left: 132px;
+    transform: translate(-50%, -50%);
+    width: 27px;
+    height: 30px;
+    background-color: #64b87d;
+    border: none;
+    outline: none;
+    border-radius: 0 50px 50px 0;
+}
+ 
+.resToothBtn{
+    visibility: hidden;
+}

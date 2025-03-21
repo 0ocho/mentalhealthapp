@@ -1,0 +1,768 @@
+
+ .magie {
+    visibility: visible;
+ }
+  
+  
+  
+ #morgen {
+    width: 26.5px;
+    height: 26.5px;
+    position: absolute;
+    margin-left: 141.1px;
+    padding:12px 12px;
+ 
+    margin-top: 305px;
+    background-color:#e4e4e4 ;
+    border:none;
+    outline:none;
+    border-radius: 50%;
+  
+ }
+  
+ #abend {
+    width: 26.5px;
+    height: 26.5px;
+    position: absolute;
+    margin-left: 283.6px;
+    padding:12px 12px;
+    margin-top: 305px;
+    background-color:#e4e4e4 ;
+    border:none;
+    outline:none;
+    border-radius: 50%;
+ 
+ }
+  
+ #btnTasks {
+    opacity: 0;
+    position: absolute;
+    top: 765px;
+    left: 106px;
+    width: 181px;
+    height: 55px;
+    color: white;
+    font-family: 'Helvetica';
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #a48da5;
+    padding: 15px;
+    border: none;
+    border-radius: 100px;
+  
+ }
+  
+ #btnCal {
+    opacity: 0;
+    position: absolute;
+    top: 739px;
+    left: 106px;
+    width: 193.5px;
+    height: 60px;
+    color: white;
+    font-family: 'Helvetica';
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #a48da5;
+    padding: 15px;
+    border: none;
+    border-radius: 100px;
+  
+ }
+    
+ #restart {
+   opacity: 0;
+   visibility: hidden;
+   position: absolute;
+   top: 739px;
+   left: 106px;
+   width: 193.5px;
+   height: 60px;
+   color: white;
+   font-family: 'Helvetica';
+   font-size: 16px;
+   font-weight: 500;
+   background-color: #a48da5;
+   padding: 15px;
+   border: none;
+   border-radius: 100px;
+ 
+}
+  
+ #back {
+     visibility: hidden;
+      position: absolute;
+     width: 42px;
+      height: 30px;
+    }
+  
+ #resback {
+    visibility: hidden;
+    position: absolute;        
+    width: 42px;
+    height: 30px;
+    }
+
+ #plus {
+    visibility: hidden;
+      position: absolute;
+      width: 45px;
+      height: 45px;
+    }
+          
+ #plus2 {
+    visibility: hidden;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    }
+                    
+ #plus3 {
+    visibility: hidden;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    }
+                  
+ #plus4 {
+    visibility: hidden;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    }
+            
+ #minus {
+    visibility: hidden;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    }
+            
+ #minus2 {
+    visibility: hidden;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    }
+                      
+ #minus3 {
+    visibility: hidden;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    }
+                
+ #minus4 {
+    visibility: hidden;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    }
+          
+ #numberField {
+     visibility: hidden;
+     font-family: 'Helvetica';
+     position: absolute;
+     width: 45;
+     height: 30;
+    }
+            
+ #meditationhours {
+    visibility: hidden;
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+    }
+                                    
+ #meditationmins {
+    visibility: hidden;
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+    }
+                                    
+ #meditationcolon {
+    visibility: hidden;
+     font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+    }
+                      
+ #bookhours {
+    visibility: hidden;
+     font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+   }
+  
+ #bookmins {
+    visibility: hidden;
+     font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+   }
+  
+ #colonbook {
+    visibility: hidden;
+     font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+   }
+          
+ #numberField3 {
+    visibility: hidden;
+     font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+   }
+  
+ #liter {
+    visibility: hidden;
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+ }      
+  
+ #kilometer {
+    visibility: hidden;
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45;
+    height: 30;
+ }
+  
+  
+ .calBtns{
+    visibility: visible;
+ }
+  
+ .buttons{
+    visibility: hidden;
+ }
+  
+ #resnumberfield11 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resliter1{
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationhours1 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationcolon {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationmins1 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resnumberfield21 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #reskilometer {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookhours1 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #rescolonbook {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookmins1 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+  
+  
+  
+ #resnumberfield12 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resliter2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationhours2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationcolon2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationmins2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resnumberfield22 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #reskilometer2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookhours2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #rescolonbook2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookmins2 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+  
+  
+  
+ #resnumberfield13 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resliter3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationhours3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationcolon3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationmins3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resnumberfield23 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #reskilometer3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookhours3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #rescolonbook3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookmins3 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+  
+  
+  
+ #resnumberfield14 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resliter4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationhours4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationcolon4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationmins4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resnumberfield24 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #reskilometer4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookhours4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #rescolonbook4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookmins4 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+  
+  
+  
+  
+  
+ #resnumberfield15 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resliter5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationhours5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationcolon5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resmeditationmins5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resnumberfield25 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #reskilometer5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookhours5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #rescolonbook5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ #resbookmins5 {
+    font-family: 'Helvetica';
+    position: absolute;
+    width: 45px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .Resultfelder{
+    visibility: hidden;
+    z-index: 100;
+ }
